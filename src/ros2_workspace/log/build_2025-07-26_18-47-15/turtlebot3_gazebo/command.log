@@ -1,0 +1,2 @@
+Invoking command in '/home/goblin/turtlebot_gps_workspace/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/goblin/turtlebot_gps_workspace/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/goblin/turtlebot_gps_workspace/install/turtlebot3_gazebo
+Invoked command in '/home/goblin/turtlebot_gps_workspace/build/turtlebot3_gazebo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/goblin/turtlebot_gps_workspace/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/goblin/turtlebot_gps_workspace/install/turtlebot3_gazebo

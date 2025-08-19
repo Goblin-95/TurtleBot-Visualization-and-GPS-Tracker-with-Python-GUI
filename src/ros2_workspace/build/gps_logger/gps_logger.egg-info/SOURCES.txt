@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/gps_logger/gps_logger.egg-info/PKG-INFO
+../../build/gps_logger/gps_logger.egg-info/SOURCES.txt
+../../build/gps_logger/gps_logger.egg-info/dependency_links.txt
+../../build/gps_logger/gps_logger.egg-info/entry_points.txt
+../../build/gps_logger/gps_logger.egg-info/requires.txt
+../../build/gps_logger/gps_logger.egg-info/top_level.txt
+../../build/gps_logger/gps_logger.egg-info/zip-safe
+gps_logger/__init__.py
+gps_logger/gps_logger_node.py
+resource/gps_logger
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

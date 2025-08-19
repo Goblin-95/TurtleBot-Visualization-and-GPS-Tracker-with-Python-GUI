@@ -1,0 +1,3 @@
+[console_scripts]
+gps_logger_node = gps_logger.gps_logger_node:main
+
