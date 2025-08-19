@@ -47,6 +47,7 @@ How the scripts communicate:
 - The GUI listens for those and animates the object’s movement accordingly.
 
 Ubuntu Turtlebot + GPS ----------------------------------------------------------------------------------------------------------------------------------
+
 Run Ubuntu TurtleBot + GPS:
 
 Uses:
