@@ -5,6 +5,9 @@ This project also includes a simpler program that utilizes only a Python GUI in 
 Below are directions on how to implement each part of this project:
 
 
+Video Directions: https://www.youtube.com/watch?v=wjsC5dGPH0w
+
+
 Simple Python GUI ----------------------------------------------------------------------------------------------------------------------------------
 
 How to use:
@@ -54,8 +57,16 @@ Uses:
 
 - Ubuntu 22.04 VM through VirtualBox
 - ROS2
+- RViz
 - TurtleBot3\
-- VS Editor 
+- VS Editor
+
+Use this RViz display configuration:
+
+Fixed Frame: "odom"
+Add Robot Model
+Add LaserScan (topic: /scan)
+Add TF
 
 Step 1 - 
 
