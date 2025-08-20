@@ -8,6 +8,8 @@ Below are directions on how to implement each part of this project:
 Video Directions: https://www.youtube.com/watch?v=wjsC5dGPH0w
 
 
+
+
 Simple Python GUI ----------------------------------------------------------------------------------------------------------------------------------
 
 How to use:
@@ -63,10 +65,10 @@ Uses:
 
 Use this RViz display configuration:
 
-Fixed Frame: "odom"
-Add Robot Model
-Add LaserScan (topic: /scan)
-Add TF
+- Fixed Frame: "odom"
+- Add Robot Model
+- Add LaserScan (topic: /scan)
+- Add TF
 
 Step 1 - 
 
